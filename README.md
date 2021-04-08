@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Qaddoumi
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Encrypt & Decrypt Data - Application
+- 💞️ I’m looking to collaborate on Encrypt & Decrypt Data - Programm
 - 📫 How to reach me ibqaddoa@gmail.com
 
 <!---
