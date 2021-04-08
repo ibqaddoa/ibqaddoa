@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ibrahim Qaddoumi
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Swift
+- 🔨 I’m currently working on a simple QR code generator for iOS
 - 💞️ I’m looking to collaborate on Encrypt & Decrypt Data - Programm
 - 📫 How to reach me ibqaddoa@gmail.com
 
